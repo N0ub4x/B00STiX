@@ -1,2 +1,3 @@
 # B00STiX
-Boost for low PC and Laptop
+
+B00STiX is an application for boost low PC/Laptop
