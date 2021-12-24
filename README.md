@@ -1,5 +1,5 @@
 # B00STiX
 
-B00STiX is an application for boost low PC/Laptop
+B00STiX est une application pour booster les PC/Portables de faible puissance.
 
-[Latest Release](http://github.com/N0ub4x/B00STiX/releases/latest)
+[Dernière version](http://github.com/N0ub4x/B00STiX/releases/latest)
